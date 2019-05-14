@@ -1,0 +1,65 @@
+﻿<Window x:Class="WordAddIn.VkSettings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WordAddIn"
+        mc:Ignorable="d"
+        Title="WindowTelegram" Height="256" Width="360" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Left" Height="18" VerticalAlignment="Top" Width="368">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFE0E0F0" Offset="0"/>
+                <GradientStop Color="#FFB1B0DC" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TabControl HorizontalAlignment="Left" Height="249" Margin="-4,10,0,-241" VerticalAlignment="Top" Width="366" Grid.ColumnSpan="2">
+            <TabItem Header="Не в первый раз" Margin="-2,-2,-86,0" Visibility="Collapsed">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FF332FB8" Offset="1"/>
+                        <GradientStop Color="#FF5D5AD4" Offset="0.988"/>
+                        <GradientStop Color="#FF9F9DE0" Offset="0.543"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Margin="0,0,-6,-3">
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF4341A4" Offset="0"/>
+                            <GradientStop Color="#FF8884E0" Offset="0.992"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
+                    <TextBlock x:Name="bloсk2" HorizontalAlignment="Left" Margin="124,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Century Gothic" Foreground="#FF132E68" Height="35" Width="218"><Run Text="Введите "/><Run Text="время"/><Run Text=" публикации новости "/><Run Text="в формате "/><Run Foreground="#FFA31515" FontSize="12.6666666666667" FontFamily="Consolas" Text="20:29"/></TextBlock>
+                    <TextBox x:Name="time" HorizontalAlignment="Left" Height="23" Margin="122,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="218" Background="{x:Null}" Foreground="#FFF9F9FB" BorderBrush="#FF5250AB"/>
+                    <TextBox x:Name="data" HorizontalAlignment="Left" Height="23" Margin="122,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="218" Background="{x:Null}" Foreground="White"/>
+                    <TextBlock x:Name="block1" HorizontalAlignment="Left" Margin="125,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Century Gothic" Foreground="#FF132E68" Height="35" Width="218"><Run Foreground="#FFE8EBF0" Text="Введите дату публикации новости в формате "/><Run Foreground="#FF9A2315" Text="2019 4 23"/></TextBlock>
+                    <Image HorizontalAlignment="Left" Margin="17,-15,0,113" Width="69" Source="icons/vk.png"/>
+                    <CheckBox x:Name="checkbox" Content="Опубликовать в ближайшее &#xD;&#xA;доступное для размещения&#xD;&#xA;новости время&#xD;&#xA;" HorizontalAlignment="Left" Margin="124,162,0,0" VerticalAlignment="Top" Height="48" Width="218" FontStyle="Italic" Checked="CheckBox_Checked" Unchecked="checkBox_Unchecked" Foreground="White"/>
+                    <Button Content="ОК" HorizontalAlignment="Left" Margin="10,161,0,0" VerticalAlignment="Top" Width="86" Background="{x:Null}" Foreground="White" Click="Button_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Grid HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="362" Grid.ColumnSpan="2" Margin="0,0,0,-1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="147*"/>
+                <ColumnDefinition Width="211*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF8280D1" Offset="0.011"/>
+                    <GradientStop Color="#FF211E8B" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+        </Grid>
+        <Button x:Name="exit_Copy" BorderBrush="Transparent" HorizontalAlignment="Left" Margin="330,-3,0,-5" VerticalAlignment="Top" Width="31" Height="26"  Background="{x:Null}" Click="Exit_Copy_Click" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Vertical" Width="29" Height="19">
+                <Image Source="icons/icons8-удалить-64.png" Height="20" RenderTransformOrigin="0.5,0.5" Margin="5,0,1,0" />
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

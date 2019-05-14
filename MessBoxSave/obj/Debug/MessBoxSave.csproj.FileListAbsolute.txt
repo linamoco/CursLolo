@@ -1,0 +1,13 @@
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\bin\Debug\MessBoxSave.exe.config
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\bin\Debug\MessBoxSave.exe
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\bin\Debug\MessBoxSave.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.Form1.resources
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.Properties.Resources.resources
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.exe
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\bin\Debug\Templates.dll
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\bin\Debug\Templates.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\MessBoxSave\obj\Debug\MessBoxSave.csproj.CopyComplete

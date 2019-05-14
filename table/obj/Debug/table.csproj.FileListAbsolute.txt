@@ -1,0 +1,14 @@
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\bin\Debug\table.exe.config
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\bin\Debug\table.exe
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\bin\Debug\table.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.Form1.resources
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.Properties.Resources.resources
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.exe
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\bin\Debug\Templates.dll
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\bin\Debug\Templates.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.csproj.CopyComplete
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\table\obj\Debug\table.SaveBox.resources

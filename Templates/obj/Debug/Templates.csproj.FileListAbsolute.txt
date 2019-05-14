@@ -1,0 +1,8 @@
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\bin\Debug\Templates.dll
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\bin\Debug\Templates.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\obj\Debug\Templates.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\obj\Debug\Templates.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\obj\Debug\Templates.dll
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\obj\Debug\Templates.pdb
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\bin\Debug\Templates.dll.CodeAnalysisLog.xml
+C:\Users\sasha\Downloads\HW_3module\HW_3module\Templates\bin\Debug\Templates.dll.lastcodeanalysissucceeded

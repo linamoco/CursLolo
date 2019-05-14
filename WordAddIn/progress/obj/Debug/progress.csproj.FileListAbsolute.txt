@@ -1,0 +1,5 @@
+C:\Users\sasha\source\repos\WordAddIn\WordAddIn\progress\bin\Debug\progress.dll
+C:\Users\sasha\source\repos\WordAddIn\WordAddIn\progress\bin\Debug\progress.pdb
+C:\Users\sasha\source\repos\WordAddIn\WordAddIn\progress\obj\Debug\progress.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\WordAddIn\WordAddIn\progress\obj\Debug\progress.dll
+C:\Users\sasha\source\repos\WordAddIn\WordAddIn\progress\obj\Debug\progress.pdb
